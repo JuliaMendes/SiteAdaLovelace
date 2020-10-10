@@ -63,6 +63,10 @@ a{
   font-weight: 700;
 }
 
+a:hover{
+  color:#ff6cb5;
+}
+
 .principal{
 background-color:#ff6cb5;
 height: 40px;
